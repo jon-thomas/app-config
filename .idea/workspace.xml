@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="558d4aee-e038-4cd4-8331-b6b5ecc33150" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greeting-config-qa.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/greeting-config.yml" afterPath="$PROJECT_DIR$/greeting-config.yml" />
     </list>
     <ignored path="app-config.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="greeting-config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="greeting-config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/greeting-config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="112">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="greeting-config-qa.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/greeting-config-qa.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -51,6 +61,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/greeting-config.yml" />
+        <option value="$PROJECT_DIR$/greeting-config-qa.yml" />
       </list>
     </option>
   </component>
@@ -551,7 +562,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470084820185</updated>
-      <workItem from="1470084821588" duration="776000" />
+      <workItem from="1470084821588" duration="1097000" />
     </task>
     <task id="LOCAL-00001" summary="Adding yml">
       <created>1470084861217</created>
@@ -574,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470088620435</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding the fortune from config">
+      <created>1470088916785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1470088916785</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="776000" />
+    <option name="totallyTimeSpent" value="1097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1320" height="825" extended-state="0" />
@@ -617,7 +635,8 @@
     <MESSAGE value="Adding yml" />
     <MESSAGE value="Removing Spring Security for Greeting Config&#10;" />
     <MESSAGE value="Changing default logging level" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing default logging level" />
+    <MESSAGE value="Adding the fortune from config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the fortune from config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -626,8 +645,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/greeting-config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="112">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greeting-config-qa.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
           <folding />
         </state>
       </provider>
